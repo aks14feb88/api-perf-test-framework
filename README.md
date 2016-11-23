@@ -1,4 +1,4 @@
-# api-perf-test-1
+# api-perf-test-framework
 API performance testing demo using gatling
 
 sbt
